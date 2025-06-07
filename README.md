@@ -18,3 +18,23 @@ Soy un programador de 21 años, dando mis primeros pasos en el desarrollo de pá
 ### ✍️ Random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🚀 Proyectos Destacados  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduard8813&repo=NOMBRE_DEL_REPOSITORIO&theme=radical)](https://github.com/Eduard8813/NOMBRE_DEL_REPOSITORIO)  
+
+### 🎯 Áreas de Especialización  
+- 🔹 Desarrollo backend: optimización de bases de datos, estructuras de datos y seguridad.  
+- 🔹 Programación de microcontroladores: firmware, integración de sensores y protocolos de comunicación.  
+- 🔹 Modelado y simulación electrónica: diseño de circuitos, análisis de componentes y prueba de sistemas.  
+- 🔹 Automatización y control: programación de dispositivos y gestión eficiente de procesos.  
+
+### 📅 Actividad Reciente  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduard8813&theme=radical)  
+
+██╗███████╗███╗   ██╗ ██████╗ ███╗   ███╗ ██████╗ ███████╗
+██║██╔════╝████╗  ██║██╔═══██╗████╗ ████║██╔══██╗██╔════╝
+██║█████╗  ██╔██╗ ██║██║   ██║██╔████╔██║██║  ██║█████╗  
+██║██╔══╝  ██║╚██╗██║██║   ██║██║╚██╔╝██║██║  ██║██╔══╝  
+██║███████╗██║ ╚████║╚██████╔╝██║ ╚═╝ ██║██████╔╝███████╗
+╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚══════╝
+
+
