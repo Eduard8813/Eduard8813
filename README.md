@@ -18,5 +18,3 @@ Soy un programador de 21 años, dando mis primeros pasos en el desarrollo de pá
 ### ✍️ Random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://raw.githubusercontent.com/your-repo/your-svg.svg" width="200" height="200">
-
