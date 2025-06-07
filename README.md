@@ -18,11 +18,8 @@ Soy un programador de 21 años, dando mis primeros pasos en el desarrollo de pá
 ### ✍️ Random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Repositorio 
-[![Eduard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduard8813&show_icons=true&theme=dark)](https://github.com/Eduard8813?tab=repositories)  
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Eduard8813&icon=10&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
