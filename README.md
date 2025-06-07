@@ -1,11 +1,3 @@
-<pre>
- ##       ######   ######   ##  ##   ######   ##  ##   #####
- ##       ##  ##   ##  ##   ## ##    ##       ### ##   ##  ##
- ######   ##  ##   ##       ####     ####     ######   ##  ##
- ##  ##   ######   ##       ####     ##       ## ###   ##  ##
- ##  ##   ##  ##   ##  ##   ## ##    ##       ##  ##   ##  ##
- ######   ##  ##   ######   ##  ##   ######   ##  ##   #####
-</pre>
 # 💫 Sobre mi:
 Soy un programador de 21 años, dando mis primeros pasos en el desarrollo de páginas web, con especial interés en todo lo relacionado con el backend. Me apasiona la gestión del flujo de datos, el control de la información y la optimización de sistemas para asegurar un procesamiento eficiente y estructurado.<br><br>Además, soy ingeniero electrónico con experiencia en el diseño de circuitos electrónicos y el trabajo con microcontroladores para la transmisión de datos e información. Me especializo en la programación de sistemas embebidos, integración de sensores y comunicación entre dispositivos, desarrollando soluciones que combinan hardware y software de manera eficiente.<br><br>Mis intereses abarcan desde la optimización de bases de datos y arquitecturas backend hasta el desarrollo de firmware para microcontroladores, protocolos de comunicación y automatización de procesos. Siempre estoy en búsqueda de nuevas tecnologías y metodologías para mejorar la interacción entre sistemas físicos y digitales.
 
@@ -36,3 +28,12 @@ Soy un programador de 21 años, dando mis primeros pasos en el desarrollo de pá
 
 ### 📅 Actividad Reciente  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eduard8813&theme=radical)  
+
+<pre>
+ ##       ######   ######   ##  ##   ######   ##  ##   #####
+ ##       ##  ##   ##  ##   ## ##    ##       ### ##   ##  ##
+ ######   ##  ##   ##       ####     ####     ######   ##  ##
+ ##  ##   ######   ##       ####     ##       ## ###   ##  ##
+ ##  ##   ##  ##   ##  ##   ## ##    ##       ##  ##   ##  ##
+ ######   ##  ##   ######   ##  ##   ######   ##  ##   #####
+</pre>
